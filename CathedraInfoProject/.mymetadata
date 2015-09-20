@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="CathedraInfoProject"
+  id="myeclipse.1440557369889"
+  context-root="/CathedraInfoProject"
+  j2ee-spec="5.0"
+  archive="CathedraInfoProject.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
