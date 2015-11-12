@@ -9,7 +9,7 @@ public class DBHelper {
 	//连接数据库的URL地址
 	private static final String url="jdbc:mysql://localhost:3306/crystal?useUnicode=true&characterEncoding=UTF-8"; 
 	private static final String username="root";//数据库的用户名
-	private static final String password="king1124";//数据库的密码
+	private static final String password="root";//数据库的密码
     
 	private static Connection conn=null;
 	
